@@ -10,5 +10,7 @@
    - __quickSort__
       - __*hoarePartition*__
          - [quickSortHoare.c](https://github.com/desouzaw/algorithms-and-data-structures-in-c/blob/main/sorting/quickSort/hoarePartition/quickSortHoare.c)
+      - __*lomutoPartition*__
+         - [quickSortLomuto.c](https://github.com/desouzaw/algorithms-and-data-structures-in-c/blob/main/sorting/quickSort/lomutoPartition/quickSortLomuto.c)
    - __selectionSort__
       - [selectionSort](https://github.com/desouzaw/algorithms-and-data-structures-in-c/blob/main/sorting/selectionSort/selectionSort.c) 
