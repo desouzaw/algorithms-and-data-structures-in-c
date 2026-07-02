@@ -16,3 +16,7 @@
          - [quickSortNaive.c](https://github.com/desouzaw/algorithms-and-data-structures-in-c/blob/main/sorting/quickSort/naivePartition/quickSortNaive.c)
    - __selectionSort__
       - [selectionSort](https://github.com/desouzaw/algorithms-and-data-structures-in-c/blob/main/sorting/selectionSort/selectionSort.c) 
+
+- ## search
+   - __linearSearch__
+      - [linearSearch.c](https://github.com/desouzaw/algorithms-and-data-structures-in-c/blob/main/search/linearSearch/linearSearch.c)
