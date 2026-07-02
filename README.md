@@ -20,3 +20,5 @@
 - ## search
    - __linearSearch__
       - [linearSearch.c](https://github.com/desouzaw/algorithms-and-data-structures-in-c/blob/main/search/linearSearch/linearSearch.c)
+   - __binarySearch__
+      - [binarySearch.c](https://github.com/desouzaw/algorithms-and-data-structures-in-c/blob/main/search/binarySearch/binarySearch.c)
